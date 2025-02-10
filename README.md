@@ -36,9 +36,10 @@ A Morse code decoder and encoder app implemented with Jetpack Compose, OpenCV, a
 A document scanner app implemented with Jetpack Compose and Google ML Kit (Document Scanner Library).
 
 ## 📈 GitHub Stats
-![Anant Jaiswal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razorquake&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razorquake&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Razorquake&theme=radical)
+![Anant Jaiswal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razorquake&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razorquake&layout=compact&theme=chartreuse-dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Razorquake&theme=chartreuse-dark)
+
 
 ## 🌐 Connect with Me
 - [Medium](https://medium.com/@razorquake2499)
