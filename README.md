@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning advanced Android development and exploring AI/ML integrations.
 - 💬 Ask me about Android development, Java, and any of the projects listed below.
-- 📫 How to reach me: razorquake2499@gmail.com
+- 📫 How to reach me: anantjaiswal2499@gmail.com
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -46,7 +46,7 @@ A document scanner app implemented with Jetpack Compose and Google ML Kit (Docum
 - [Stack Overflow](https://stackoverflow.com/users/21783557/razorquake)
 - [HackerRank](https://www.hackerrank.com/profile/CSEAIML22A_0011)
 - [CodeChef](https://www.codechef.com/users/razorquake2499)
-- [LinkedIn](https://www.linkedin.com/in/anant-jaiswal-63978b248/)
+- [LinkedIn](https://www.linkedin.com/in/anantjaiswal2499/)
 - [GitHub](https://github.com/Razorquake/)
 
 Feel free to reach out if you have any questions or just want to connect!
