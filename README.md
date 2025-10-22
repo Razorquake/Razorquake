@@ -37,7 +37,7 @@ A document scanner app implemented with Jetpack Compose and Google ML Kit (Docum
 
 ## 📈 GitHub Stats
 ![Anant Jaiswal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razorquake&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razorquake&layout=compact&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Razorquake&layout=donut&theme=chartreuse-dark)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Razorquake&theme=chartreuse-dark)
 
 
