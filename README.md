@@ -53,9 +53,9 @@
 📥 A BitTorrent client implementation in Java using **Spring Boot**, **PostgreSQL**, and **jlibtorrent**. Currently in development with plans to add WebSockets, Spring Security, and a frontend (exploring Vaadin).
 
 ## 📈 GitHub Stats
-![Anant Jaiswal's GitHub stats](https://nirzak-stats.vercel.app/api?username=Razorquake&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Razorquake&layout=compact&cache_seconds=60&theme=shadow_green)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Razorquake&theme=shadow_green&cache_seconds=86400)
+![Anant Jaiswal's GitHub stats](https://nirzak-stats.vercel.app/api?username=Razorquake&show_icons=true&theme=shadow_green&hide_border=true&include_all_commits=true&cache_seconds=120)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Razorquake&layout=compact&cache_seconds=120&theme=shadow_green)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Razorquake&theme=shadow_green&cache_seconds=120)
 
 ## 🏆 Certifications
 - ☁️ **AWS Certified Cloud Practitioner (CCP)**
